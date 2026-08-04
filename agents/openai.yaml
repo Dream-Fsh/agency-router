@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agency Router"
+  short_description: "Route tasks to an Agency Agents specialist team"
+  default_prompt: "Use $agency-router to analyze this task, select an Agency Agents team, and coordinate the work."
